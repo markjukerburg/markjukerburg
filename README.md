@@ -15,11 +15,11 @@ I'm an **AI/ML Engineer and Data Scientist** with 5+ years of experience designi
 
 Currently completing my **MS in Information Science (ML focus) at the University of Arizona (GPA: 4.0)** while working at **Wells Fargo** building a GenAI-powered compliance platform.
 
-- 🏦 **@Wells Fargo** — Built a GenAI compliance platform converting **200K+ annual case records** into auditable explanations, reducing manual narrative prep by **50%** and audit turnaround by **40%**
-- 🤖 Engineered **LangGraph multi-agent workflows** (GPT-4) that reduced end-to-end case review effort by **40%** with zero-downtime deployments at **3× peak throughput**
-- 🔍 Built production **RAG pipelines** (FAISS + Azure OpenAI) achieving **32% retrieval precision improvement** and **38% hallucination reduction** via LoRA fine-tuning
-- 🏥 **@Tietoevry** — Delivered readmission risk ML platform processing **800K+ patient records** across 4 hospital networks, contributing to a **12% reduction in 30-day readmissions**
-- 📊 Processed **8M+ monthly transactions** across 30+ markets driving **8% promotion ROI improvement**
+-  **@Wells Fargo** — Built a GenAI compliance platform converting **200K+ annual case records** into auditable explanations, reducing manual narrative prep by **50%** and audit turnaround by **40%**
+-  Engineered **LangGraph multi-agent workflows** (GPT-4) that reduced end-to-end case review effort by **40%** with zero-downtime deployments at **3× peak throughput**
+-  Built production **RAG pipelines** (FAISS + Azure OpenAI) achieving **32% retrieval precision improvement** and **38% hallucination reduction** via LoRA fine-tuning
+-  **@Tietoevry** — Delivered readmission risk ML platform processing **800K+ patient records** across 4 hospital networks, contributing to a **12% reduction in 30-day readmissions**
+-  Processed **8M+ monthly transactions** across 30+ markets driving **8% promotion ROI improvement**
 
 ---
 
@@ -84,10 +84,10 @@ Currently completing my **MS in Information Science (ML focus) at the University
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markjukerburg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjukerburg&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markjukerburg&theme=tokyonight&hide_border=true" width="60%" />
