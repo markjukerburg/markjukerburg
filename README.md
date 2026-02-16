@@ -73,12 +73,12 @@ Currently completing my **MS in Information Science (ML focus) at the University
 
 | Project | Impact | Stack |
 |---|---|---|
-| 🏦 [GenAI Compliance Narrative Platform](#) | 200K+ cases · 50% manual effort reduction · 99.9% uptime | LangGraph, GPT-4, FAISS, FastAPI, AWS ECS |
-| 🔍 [Production RAG Pipeline](#) | 32% retrieval precision ↑ · 38% hallucination ↓ | LangChain, FAISS, Azure OpenAI, LoRA |
-| 🏥 [Readmission Risk ML Platform](#) | 800K+ records · ROC-AUC 0.83 · 12% readmission reduction | XGBoost, MLflow, AKS, Terraform |
-| 📊 [Customer Promotion Analytics](#) | 8M+ monthly transactions · 30+ markets · 8% ROI ↑ | BigQuery, PySpark, Looker, Python |
-| 🤖 [LLM Evaluation Framework](#) | 28% output quality improvement across 3 release cycles | LangSmith, RAGAS, Python, BLEU/ROUGE |
-| 🧪 [LLM Fine-tuning Lab](#) | SFT + LoRA + QLoRA experiments on compliance domain | PyTorch, HuggingFace, PEFT, MLflow |
+|  [GenAI Compliance Narrative Platform](#) | 200K+ cases · 50% manual effort reduction · 99.9% uptime | LangGraph, GPT-4, FAISS, FastAPI, AWS ECS |
+|  [Production RAG Pipeline](#) | 32% retrieval precision ↑ · 38% hallucination ↓ | LangChain, FAISS, Azure OpenAI, LoRA |
+|  [Readmission Risk ML Platform](#) | 800K+ records · ROC-AUC 0.83 · 12% readmission reduction | XGBoost, MLflow, AKS, Terraform |
+|  [Customer Promotion Analytics](#) | 8M+ monthly transactions · 30+ markets · 8% ROI ↑ | BigQuery, PySpark, Looker, Python |
+|  [LLM Evaluation Framework](#) | 28% output quality improvement across 3 release cycles | LangSmith, RAGAS, Python, BLEU/ROUGE |
+|  [LLM Fine-tuning Lab](#) | SFT + LoRA + QLoRA experiments on compliance domain | PyTorch, HuggingFace, PEFT, MLflow |
 
 ---
 
