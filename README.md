@@ -108,10 +108,10 @@ Currently completing my **MS in Information Science (ML focus) at the University
 
 ## 🔥 Currently Focused On
 
-- 🧠 **LLM Evaluation & Safety** — RAGAS, LangSmith, BLEU/ROUGE, hallucination mitigation
-- 🔗 **Multi-Agent Orchestration** — LangGraph agentic workflows at production scale
-- ☁️ **MLOps** — Model monitoring, drift detection, automated retraining pipelines
-- 🏆 **Targeting** — AI Engineer · Data Scientist · ML Engineer roles at FAANG & top-tier companies
+-  **LLM Evaluation & Safety** — RAGAS, LangSmith, BLEU/ROUGE, hallucination mitigation
+-  **Multi-Agent Orchestration** — LangGraph agentic workflows at production scale
+-  **MLOps** — Model monitoring, drift detection, automated retraining pipelines
+-  **Targeting** — AI Engineer · Data Scientist · ML Engineer roles at FAANG & top-tier companies
 
 ---
 
