@@ -32,7 +32,7 @@ Currently completing my **MS in Information Science (ML focus) at the University
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=flat-square&logo=python&logoColor=white)
 
 
 
