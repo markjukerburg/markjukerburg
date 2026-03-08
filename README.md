@@ -15,6 +15,8 @@ I'm an **AI/ML Engineer and Data Scientist** with 5+ years of experience designi
 
 Currently completing my **MS in Information Science (ML focus) at the University of Arizona (GPA: 4.0)** while working at **Wells Fargo** building a GenAI-powered compliance platform.
 
+-  **@Palid Inc** — Engineered LendSmart AI Platform, a scalable end-to-end system for credit risk scoring and lending insights, analyzing millions of banking transactions daily, improving loan approval accuracy by 32% while reducing default risk and operational latency.
+
 -  **@Wells Fargo** — Built a GenAI compliance platform converting **200K+ annual case records** into auditable explanations, reducing manual narrative prep by **50%** and audit turnaround by **40%**
 -  Engineered **LangGraph multi-agent workflows** (GPT-4) that reduced end-to-end case review effort by **40%** with zero-downtime deployments at **3× peak throughput**
 -  Built production **RAG pipelines** (FAISS + Azure OpenAI) achieving **32% retrieval precision improvement** and **38% hallucination reduction** via LoRA fine-tuning
