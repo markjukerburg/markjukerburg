@@ -104,8 +104,8 @@ Currently completing my **MS in Information Science (ML focus) at the University
 
 | Degree | Institution | GPA | Year |
 |---|---|---|---|
-| M.S. Information Science — Machine Learning | University of Arizona | 4.0 / 4.0 | Jan 2025 – Dec 2025 |
-| B.Tech, Computer Science | Visvesvaraya Technological University | 3.0 / 4.0 | Aug 2016 – Jan 2020 |
+| M.S. Information Science — Machine Learning | University of Arizona | 4.0 / 4.0 | Jan 2024 – Dec 2025 |
+| B.Tech, Computer Science | Visvesvaraya Technological University | 3.0 / 4.0 |
 
 **MS Coursework:** Deep Learning · NLP · Advanced ML Systems · RAG Systems · LLM Evaluation
 
