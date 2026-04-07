@@ -17,7 +17,7 @@ Currently completing my **MS in Information Science (ML focus) at the University
 
 -  **@Palid Inc** — Engineered LendSmart AI Platform, a scalable end-to-end system for credit risk scoring and lending insights, analyzing millions of banking transactions daily, improving loan approval accuracy by 32% while reducing default risk and operational latency.
 
-Built a GenAI compliance platform converting **200K+ annual case records** into auditable explanations, reducing manual narrative prep by **50%** and audit turnaround by **40%**
+-   Built a GenAI compliance platform converting **200K+ annual case records** into auditable explanations, reducing manual narrative prep by **50%** and audit turnaround by **40%**
 -  Engineered **LangGraph multi-agent workflows** (GPT-4) that reduced end-to-end case review effort by **40%** with zero-downtime deployments at **3× peak throughput**
 -  Built production **RAG pipelines** (FAISS + Azure OpenAI) achieving **32% retrieval precision improvement** and **38% hallucination reduction** via LoRA fine-tuning
 -  **@Tietoevry** — Delivered readmission risk ML platform processing **800K+ patient records** across 4 hospital networks, contributing to a **12% reduction in 30-day readmissions**
@@ -124,7 +124,7 @@ Built a GenAI compliance platform converting **200K+ annual case records** into 
 
 I'm **actively open to opportunities** in AI Engineering and Data Science across the USA.
 
-📍 Tucson, AZ &nbsp;|&nbsp; 📞 520-256-2257 &nbsp;|&nbsp; 💼 OPT — Available Immediately &nbsp;|&nbsp; 🌐 Open to Remote & Relocation
+ 📞 520-256-2257 &nbsp;|&nbsp; 💼 OPT — Available Immediately &nbsp;|&nbsp; 🌐 Open to Remote & Relocation
 
 > *"I don't just build models — I build systems that make models reliable, auditable, and production-ready at scale."*
 
